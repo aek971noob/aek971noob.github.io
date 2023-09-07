@@ -6,7 +6,7 @@
   <link href="https://aek971noob.github.io/atom.xml" rel="self"/>
   
   <link href="https://aek971noob.github.io/"/>
-  <updated>2023-08-31T10:04:27.645Z</updated>
+  <updated>2023-09-07T14:11:11.647Z</updated>
   <id>https://aek971noob.github.io/</id>
   
   <author>
@@ -17,14 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>技术随想</title>
-    <link href="https://aek971noob.github.io/posts/ddae.html"/>
-    <id>https://aek971noob.github.io/posts/ddae.html</id>
+    <title>DG的新宠：Noveske N4 Gen4</title>
+    <link href="https://aek971noob.github.io/posts/ddab.html"/>
+    <id>https://aek971noob.github.io/posts/ddab.html</id>
     <published>2023-08-31T09:56:56.000Z</published>
-    <updated>2023-08-31T10:04:27.645Z</updated>
+    <updated>2023-09-07T14:11:11.647Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://pic.imgdb.cn/item/64f9d7a7661c6c8e546686c5.png"><br><img src="https://pic.imgdb.cn/item/64f9d7a8661c6c8e54668712.png"><br>这个月初，NSWDG在西海岸海豹大本营Va Beach（弗吉尼亚海滩）进行了一次机动训练，部分被媒体抓拍到的照片进行了公开。</p><p>照片中的这些DG操作员们都换上了CP新款的G4蛙服和战斗裤，而手里的枪也发生了一些变化—原来常见的10.5寸HK416业已消失不见，取而代之的是Noveske的N4卡宾枪。<br><img src="https://pic.imgdb.cn/item/64f9d85d661c6c8e5466aeba.png"></p><p>416大家想必都很熟悉了<br>目前还没有人明确清楚DG为什么要换枪，不过去年流出的一些照片中就有人在使用10.5寸的N4，之前陆特也有人拿N6（7.62x51mm口径的型号）在阿富汗和叙利亚当DMR用，足见其可靠性还是没问题的。<br><img src="https://pic.imgdb.cn/item/64f9d7a9661c6c8e5466873a.png"><br>较早的照片<br><img src="https://pic.imgdb.cn/item/64f9d7ad661c6c8e546687b6.png"><br>使用N6的陆特<br>DG现在换枪的愿意尚不清楚，不过气吹AR的可靠性是始终不如活塞的，DG可能是觉得撤离阿富汗以后的任务不会再那么极端了吧（逃</p><p>Noveske是美国的一家民营武器生产商，其主要生产AR15和SR25类步枪的整枪和配件。在国内网络上早年因其制造的KX3消焰器而被国内枪械爱好者熟知。因KX系列的消焰器体积都较大（SLR：就这？），Noveske自嘲一般地在上面用激光刻了个口中喷火的猪的图案，所以在国内Noveske也被网友戏称为喷火猪。<br><img src="https://pic.imgdb.cn/item/64f9d7ac661c6c8e54668791.png"></p><p>Noveske的AR配件和整枪都以轻量化，高性能和高可靠性为主要卖点，而这也决定了这个品牌的另一个主要特点—就是贵。</p><p>Noveske的整枪和配件都很贵，面向的主要也是高端市场，不过质量倒也是可以，至少钱没有完全白花。<br><img src="https://pic.imgdb.cn/item/64f9d820661c6c8e54669f6f.png"></p><p>官网上销售的一部分型号，右上的10.5“ Gen4 Shorty可以当作对应DG的型号<br>而随着DG这组训练照的发布，也有不少人第一时间给自己的N4喷了FDE色的漆来赶时髦（因为民版只有黑色销售）。</p><p>图里这个更直接，上了Cerakote烤瓷<br><img src="https://pic.imgdb.cn/item/64f9d820661c6c8e54669f91.png"><br>下面是DG造型的部分配件：</p><p>红点：Aimpoint T2</p><p>镜座：Fortis F1 Lower 1&#x2F;3rd &amp; LaRue LT660</p><p>增倍镜：EOTech G33 (tano)</p><p>机瞄：无</p><p>护木： Noveske NSR-9 MLOK</p><p>阻手：RailScales Karve</p><p>激光指示器：LA-5C</p><p>消焰器: Dead Air 5&#x2F;8x24 Flash Hider</p><p>消音器：Dead Air Sandman-S Mil</p><p>扳机护圈: Magpul MOE</p><p>枪托：Magpul MOE SL-K</p><p>民间玩家组的克隆造型<br><img src="https://pic.imgdb.cn/item/64f9d821661c6c8e54669fc2.png"></p><p>有意思的是，DG使用的N4的上机匣是Noveske新款的Gen4上机匣，但下机匣却是Gen1的。<br>资料和图片来源：The Reptile House论坛，AR15论坛，Noveske官网 </p>]]></content>
     
     
-    <summary type="html">记录搭建博客的经历~</summary>
+    <summary type="html">Noveske N4 Gen4</summary>
     
     
     
@@ -34,14 +36,19 @@
   </entry>
   
   <entry>
-    <title>技术随想</title>
-    <link href="https://aek971noob.github.io/posts/ddae.html"/>
-    <id>https://aek971noob.github.io/posts/ddae.html</id>
+    <title>CAG和DevGru使用的HK416</title>
+    <link href="https://aek971noob.github.io/posts/ddac.html"/>
+    <id>https://aek971noob.github.io/posts/ddac.html</id>
     <published>2023-08-31T09:56:15.000Z</published>
-    <updated>2023-08-31T10:04:27.639Z</updated>
+    <updated>2023-09-07T14:11:11.642Z</updated>
+    
+    <content type="html"><![CDATA[<p>CAG&#x2F;1st SFOD-D(即三角洲）和NSWDG（海豹六队）使用的比较有代表性的416造型<br><strong>首先是CAG</strong><br><img src="https://pic.imgdb.cn/item/64f9d4e7661c6c8e5465ce3f.png"></p><p>配置大概是15-18年的</p><p>17年在马里给法特打配合的CAG<br><img src="https://pic.imgdb.cn/item/64f9d4e7661c6c8e5465ce4e.png"><br><strong>改装件</strong></p><p>下机匣：枪托：Magpul CTR</p><p>  手枪握把：Magpul PMAG M3 Windowed</p><p>  扳机组：Geissele SSF HK</p><p>上机匣：枪口装置：Surefire Warcomp FH556+SOCOM RC2</p><p>  护木：Geissele SMR HK 10.5”</p><p>  光电装置：L3 Insight PEQ-15&#x2F;LA-5C激光指示器+Surefire M600V枪灯</p><p>  瞄准具：EOTech HHS (EXPS3-1+G33)</p><p>  增高导轨：Wilcox Industries 5&#x2F;8” (0.625”) riser</p><p>  枪管：HK SOCOM 10.5” 1:7</p><p><strong>接下来是DG的</strong><br><img src="https://pic.imgdb.cn/item/64f9d4e7661c6c8e5465ce5c.png"></p><p>DG的配置我选择了2010-13年的造型，至于为什么不选后来用RAHG护木的？DG在这方面比较自由，RAHG的代表性有限，几种常用的护木都有使用，所以选择了更著名的猎杀本拉登造型。</p><p>消声器的攻击头没找到合适的图，摆了<br>比如这个19年的DG操作员，MFT的托+MI的护木+20发弹匣，就很民用<br><img src="https://pic.imgdb.cn/item/64f9d4e8661c6c8e5465ce75.png"><br><strong>改装件：</strong></p><p>  下机匣：枪托：LMT SOPMOD</p><p>  手枪握把：TangoDown BG16</p><p>  弹匣：Magpul EMAG</p><p>  扳机组：Geissele SSF HK</p><p>上机匣：枪口装置：AAC Blackout 51T+M4-2000<br>  光电装置：L3 Insight PEQ-15&#x2F;LA-5C+Surefire M600</p><p>  前握把：TangoDown VFG BGV-Mk46</p><p>  瞄准镜：EOTech 551</p><p>  机械瞄具：Troy Industries BattleSight HK</p><p>  枪管：HK SOCOM 10.5” 1:7</p><p>然后是合照<br><img src="https://pic.imgdb.cn/item/64f9d55e661c6c8e5465dc96.png"></p><p>至于为什么没选24th STS和CIA SAD的，空军那边的配置和CAG比较类似，CIA的则大部分是从其他单位借调的，所以代表性不足</p>]]></content>
     
     
-    <summary type="html">记录搭建博客的经历~</summary>
+      
+      
+    <summary type="html">&lt;p&gt;CAG&amp;#x2F;1st SFOD-D(即三角洲）和NSWDG（海豹六队）使用的比较有代表性的416造型&lt;br&gt;&lt;strong&gt;首先是CAG&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;https://pic.imgdb.cn/item/64f9d4e7661c6c8e54</summary>
+      
     
     
     
@@ -51,39 +58,21 @@
   </entry>
   
   <entry>
-    <title>技术随想</title>
+    <title>ZenitCo 泽宁特简介</title>
     <link href="https://aek971noob.github.io/posts/ddae.html"/>
     <id>https://aek971noob.github.io/posts/ddae.html</id>
     <published>2023-08-30T17:33:15.000Z</published>
-    <updated>2023-08-31T10:23:06.552Z</updated>
+    <updated>2023-09-07T14:11:11.651Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://pic.imgdb.cn/item/64f9cddf661c6c8e5464c2e2.png"><br>ZenitCo是总部位于俄罗斯莫斯科的milspec AK配件的顶级制造商。 ZenitCo配件系列被广泛用于俄罗斯特种作战部队，军队和执法部门。</p><p>本期科普着重展示zenitco系列武器配件，文本类科普干货较少，还望谅解。</p><p>护木相关</p><p><strong>1：B-11系列 护木</strong><br><img src="https://pic.imgdb.cn/item/64f9ced5661c6c8e5464e7ca.png"></p><p>B-11</p><p><img src="https://pic.imgdb.cn/item/64f9cee0661c6c8e5464e8d6.png"><br>B-11M<br><img src="https://pic.imgdb.cn/item/64f9cee0661c6c8e5464e8f5.png"><br>安装B-11和B-12的AKS-74U突击步枪<br>Zenitco B-11&#x2F;B-11U护木设计用于短行程AK型步枪（Arsenal.Krink和俄罗斯AKSU）。</p><p>高质量DT16轻质磨铝。</p><p>B-11&#x2F;B-11U护木取代了AKSU和Krinkov步枪上的原厂护目。</p><p>B-11&#x2F;B-11U具有底部Picatinny滑轨，可用于安装战术手电筒，激光指示器，战术握把等附件。 根据用户的需要，可以与原厂木护木使用，也可以加装侧导轨。</p><p>可根据需要安装侧Picatinny导轨</p><p>重量极轻，具有通风孔，可提供出色的冷却效果，改善了枪管的冷却效果</p><p><strong>2：B-12侧导轨</strong><br><img src="https://pic.imgdb.cn/item/64f9cee9661c6c8e5464ea31.png"></p><p>Zenitco B12导轨可以安装在任何带有侧面皮卡汀尼导轨的泽宁特AK护木上。 在导气管上方形成附加的皮卡汀尼导轨。在AKSU系列武器上使用最佳</p><p><strong>3：B-19 系列导气管防尘盖</strong><br><img src="https://pic.imgdb.cn/item/64f9ceeb661c6c8e5464ea8d.png"></p><p>B-19，图中是沙色版本<br><img src="https://pic.imgdb.cn/item/64f9cfff661c6c8e546523d8.png"><br>B-19N<br>Zenitco B-19 Sand AK防尘盖由D16T铝合金制成，并带有涂层。 适合安装了Zenitco B-10，B-10M或B-30的任何步枪。正确安装后，它会形成非常坚固的Picatinny滑轨，可用于安装其他设备，各种光学元件和激光指示器。 需要与Zenitco前护木系列配套使用</p><p><strong>4：B-10M 护木</strong></p><p>Zenitco B-10M“ Classic”由D16T铝合金制成，并带有涂层。 为了适合某些型号可能需要大多数基于AK的步枪配件。 单独使用或与Zenitco Classic B-33和B-19搭配使用都可以很好地工作。 在护木上有3条Picatinny导轨。</p><p><img src="https://pic.imgdb.cn/item/64f9d087661c6c8e54653623.png"><br>图中为沙色版本</p><p><img src="https://pic.imgdb.cn/item/64f9cfff661c6c8e546523e4.png"><br>安装了B-19上护木和B-10M下护木的AK-74M</p><p><strong>5：B-10 护木</strong></p><p><img src="https://pic.imgdb.cn/item/64f9cfff661c6c8e546523f1.png"><br>老款的B-10护木，现在已经停止销售了<br><em>6.B-30 AK护木</em><br><img src="https://pic.imgdb.cn/item/64f9d000661c6c8e54652409.png"></p><p>安装B-30下护木和B-31上护木的AK-104<br><img src="https://pic.imgdb.cn/item/64f9d000661c6c8e5465241c.png"></p><p>Zenitco Handguard B-30“ Classic”由D16T铝合金制成，并带有涂层。安装在AK上可能需要一些配件。 单独使用或与Zenitco Classic B-32，B-31，B-31C上护木和B-33防尘盖都可正常工作。 拥有三条皮卡丁尼导轨。</p><p>Zenitco B-30是AK护木的绝佳升级。 它适合大多数AK步枪。</p><p>允许安装其他设备（战术握把，照明灯，激光指示器）</p><p><strong>7.B-31上护木系列</strong><br><img src="https://pic.imgdb.cn/item/64f9d0bf661c6c8e54653d19.png"><br>B-31<br><img src="https://pic.imgdb.cn/item/64f9d0bf661c6c8e54653d25.png"><br>B-31C<br>ZenitcoB-31“ Classic”由D16T铝合金制成，并带有涂层。 可在装有B-30护具的任何AK型步枪上使用。 在导气管上无视线障碍。 安装在任何AK都具有出色的战术性能。</p><p>整体尺寸7.9x1.9x1.5英寸</p><p>净重– 4盎司</p><p>运输包装包括：Zenitco B-31– 1件操作手册– 1件内六角扳手– 1件安装螺丝套组</p><p><strong>8.B-32导轨</strong><br><img src="https://pic.imgdb.cn/item/64f9d0e3661c6c8e546540dc.png"><br><img src="https://pic.imgdb.cn/item/64f9d0e3661c6c8e546540e9.png"><br>安装B-32的AK突击步枪<br>B-32由D16T铝合金制成，并带有涂层。 通过使用六个螺丝固定装置，该零件只能与Zenitco B-30 Classic护木一起安装。 Zenitco Classic B-32可在枪管和AK步枪的导气管上方形成Picatinny导轨组，而不会妨碍瞄准线。</p><p><strong>9.B-33 AK上机匣盖&#x2F;防尘盖</strong><br><img src="https://pic.imgdb.cn/item/64f9d0e3661c6c8e546540f5.png"></p><p>Zenitco B-33 AK上防尘盖，带有皮卡汀尼导轨。 皮卡丁尼导轨和本体是由DT16铝制成的，即使在反复打开和关闭防尘罩后，也可以提供良好的光学瞄准具适配性。 只与带有B-10M&#x2F;B-30护木的AK使用。 仅适用于俄罗斯产AK及其变种枪（Saiga系列等等）</p>]]></content>
     
     
-    <summary type="html">记录搭建博客的经历~</summary>
+    <summary type="html">Мама сказала, что я особенный.</summary>
     
     
     
     
     <category term="Hexo" scheme="https://aek971noob.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://aek971noob.github.io/posts/16107.html"/>
-    <id>https://aek971noob.github.io/posts/16107.html</id>
-    <published>2023-08-19T13:40:15.185Z</published>
-    <updated>2023-08-20T09:26:08.892Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
